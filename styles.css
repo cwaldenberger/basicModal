@@ -1,0 +1,26 @@
+/* boilerplate css */
+
+
+
+#overlay{
+    border: 2px solid #404040;
+    border-radius: 5px;
+    padding: 1rem;
+    margin: 10vh auto;
+    text-align: center;
+}
+
+#overlay h1{
+    font-size: 1.4rem;
+}
+
+
+#modal{
+    visibility: hidden;
+
+    border: 2px solid #404040;
+    border-radius: 5px;
+    padding: 1rem;
+    margin: 10vh auto;
+    text-align: center;
+}
